@@ -2,8 +2,6 @@
 
 Download the video for testing from <a href="https://drive.google.com/open?id=1jd8WVKHYXfisMO390easOdPkZahonRNd">here</a> 
 
-For detailed explanation and requirements, check my article @GeekforGeeks <a href="https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/">here</a>
-
 ### Tech Stack
 Tech Stack used in this projects are:<br>
 * Python<br>
